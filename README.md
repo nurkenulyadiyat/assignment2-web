@@ -101,7 +101,7 @@ The project is published using GitHub Pages.
 
 Live link:
 
-`github pages link`
+`https://nurkenulyadiyat.github.io/assignment2-web/`
 
 ## Author
 
